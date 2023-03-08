@@ -1,0 +1,15 @@
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.csproj.AssemblyReference.cache
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.AssemblyInfoInputs.cache
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.AssemblyInfo.cs
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.csproj.CoreCompileInputs.cache
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\bin\Debug\net6.0\DeleteMetaFiles.exe
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\bin\Debug\net6.0\DeleteMetaFiles.deps.json
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\bin\Debug\net6.0\DeleteMetaFiles.runtimeconfig.json
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\bin\Debug\net6.0\DeleteMetaFiles.dll
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\bin\Debug\net6.0\DeleteMetaFiles.pdb
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.dll
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\refint\DeleteMetaFiles.dll
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.pdb
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\DeleteMetaFiles.genruntimeconfig.cache
+D:\Files_Unity\CSharpApp\DeleteMetaFiles\DeleteMetaFiles\obj\Debug\net6.0\ref\DeleteMetaFiles.dll
