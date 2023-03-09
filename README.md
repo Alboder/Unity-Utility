@@ -17,4 +17,4 @@ You can create a .lua extension files in project panel with custom tempalte scri
 ## PackAssetBundle
 You can use this unity editor command to build a assetbundle to StreamingAssets folder;  
 And it will auto-pack your script with .bytes extension!  
-* juse click the pack button or right-click the folder-->pack folder.*  
+*juse click the pack button or right-click the folder-->pack folder.*  
